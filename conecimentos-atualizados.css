@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
+
+body {
+    background-color: skyblue;
+  }
+
+  h3 {
+
+    display: flex;
+    justify-content: center;
+    margin: auto;
+
+  }
+  
+  a {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    color: red;
+  }
+  
+  button {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+  }
+  
+  p {
+    display: flex;
+    justify-content: center;
+  }
+  
+  input {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+  }
+  
+  h4 {
+    font-family: "Oswald", curvise;
+    display: flex;
+    justify-content: center;
+    padding-left: 600px;
+  }
+  
+  span {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 12px;
+  
+  }
